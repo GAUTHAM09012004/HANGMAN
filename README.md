@@ -1,3 +1,2 @@
 
-Hangman is a classic word-guessing game where players try to discover a hidden word by guessing individual letters. The game begins with a blank line representing each letter of the word, and players take turns guessing letters. 
-Requires pygame module to run.
+Hangman is a classic word guessing game where players try to guess a word by suggesting letters within a limited number of guesses. This project aims to provide a digital version of the game that is user-friendly and suitable for all ages. The program utilizes the random module for word selection, sys module for system-specific functionality, time module for timing features, re module for pattern matching, and the pygame module for graphics and sound.
