@@ -1,3 +1,4 @@
+HANGMAN GAME
 
 The program utilizes the random module for word selection, sys module for system-specific functionality, time module for timing features, re module for pattern matching, and the pygame module for graphics and sound.
 
@@ -7,7 +8,7 @@ make sure to install pygame module
 
 Installation:
 Clone the repository:
-$ git clone https://github.com/yourusername/yourproject.git
+$ git clone https://github.com/yourusername/HANGMAN.git
 
 Install the required dependencies:
 $ pip install pygame
