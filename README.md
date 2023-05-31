@@ -1,6 +1,5 @@
 HANGMAN GAME
 
-The program utilizes the pygame module for graphics and sound and the random module for word selection, sys module for system-specific functionality, time module for timing features, re module for pattern matching.
 
 Requirements:
 Python 3.x: The game is developed in Python programming language, so make sure you have Python 3.x installed on your system.
@@ -9,16 +8,15 @@ make sure to install pygame module
 Installation:
 Clone the repository:
 $ git clone https://github.com/yourusername/HANGMAN.git
-
-Install the required dependencies:
+Install the required dependencies
 $ pip install pygame
-
-Usage:
 Navigate to the project directory
 $ cd yourproject
-
-Run the Hangman Game:
+Run the Hangman Game
 $ python hangman.py
+
+Usage:
+The program utilizes the pygame module for graphics and sound and the random module for word selection, sys module for system-specific functionality, time module for timing features, re module for pattern matching.
 
 Features:
 Randomly selects words for gameplay.
