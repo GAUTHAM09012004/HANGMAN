@@ -32,6 +32,9 @@ Contributions to the Hangman Game project are welcome. If you encounter any issu
 License:
 The Hangman Game is open-source and is licensed under the MIT License. Feel free to modify and distribute the game according to the terms of the license.
 
+![Screenshot from 2023-05-31 13-48-52](https://github.com/GAUTHAM09012004/HANGMAN/assets/121389039/ed6866a7-2d16-446c-9082-9f80450aa065)
+
+
 
 
 
