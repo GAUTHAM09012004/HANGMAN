@@ -1,5 +1,12 @@
 HANGMAN GAME
 
+Features:
+Randomly selects words for gameplay.
+Provides categories and levels for customization.
+Displays a graphical hangman image during gameplay.
+Gives feedback on correct and incorrect guesses.
+Offers the option to play the game again.
+
 
 Requirements:
 Python 3.x: The game is developed in Python programming language, so make sure you have Python 3.x installed on your system.
@@ -17,13 +24,6 @@ $ python hangman.py
 
 Usage:
 The program utilizes the pygame module for graphics and sound and the random module for word selection, sys module for system-specific functionality, time module for timing features, re module for pattern matching.
-
-Features:
-Randomly selects words for gameplay.
-Provides categories and levels for customization.
-Displays a graphical hangman image during gameplay.
-Gives feedback on correct and incorrect guesses.
-Offers the option to play the game again.
 
 Contributing:
 Contributions to the Hangman Game project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request on the GitHub repository.
