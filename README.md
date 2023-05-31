@@ -7,7 +7,7 @@ make sure to install pygame module
 
 Installation:
 Clone the repository:
-$ git clone https://github.com/yourusername/HANGMAN.git
+$ git clone https://github.com/GAUTHAM09012004/HANGMAN.git
 Install the required dependencies
 $ pip install pygame
 Navigate to the project directory
